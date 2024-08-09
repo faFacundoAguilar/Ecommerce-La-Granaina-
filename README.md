@@ -44,7 +44,7 @@
 https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
-<p align="center">Este repositorio presenta mi trabajo desarrollado durante mis prácticas profesionales en la cooperativa 'La Granaina'. Mi participación en el proyecto Ecommerce incluyó la creación del diseño original y la elección de las tecnologías que se utilizaron. Me encargué en su mayoria del desarrollo frontend , aunquen en el backEnd tambien realice tareas tales como el login, autenticacion y registro,del lado del servidor, integracacion del back con el front, entre otras.
+<p align="center">Este repositorio presenta mi trabajo desarrollado durante mis prácticas profesionales en la cooperativa 'La Granaina'. Mi participación en el proyecto Ecommerce incluyó la creación del diseño original y la elección de las tecnologías que se utilizaron.
 
 Aunque el proyecto aún no está completamente terminado, gran parte de las funcionalidades propias de una Ecommerce están implementadas y funcionales. 
 
