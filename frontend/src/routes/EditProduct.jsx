@@ -120,7 +120,7 @@ function EditProduct() {
     <>
       <div className="flex-1 p-6">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-semibold">Productos</h1>
+          <h1 className="text-3xl font-sans">Productos</h1>
           {/* BUSCADOR */}
           <div>
             <input
@@ -134,37 +134,12 @@ function EditProduct() {
           </div>
         </div>
 
-        <div className="bg-white p-6 rounded-lg shadow-lg mb-6">
-          <h2 className="text-2xl font-bold mb-4">Productos</h2>
-          <table className="min-w-full bg-white">
-            <thead className="bg-gray-800 text-white">
-              <tr>
-                <th className="w-1/3 px-4 py-2">Nombre</th>
-                <th className="w-1/3 px-4 py-2">Descripción</th>
-                <th className="w-1/3 px-4 py-2">Precio</th>
-              </tr>
-            </thead>
-            <tbody className="text-gray-700">
-              {productsInfo &&
-                productsInfo.map((product) => (
-                  <tr key={product._id}>
-                    <td className="border px-4 py-2">{product.name}</td>
-                    <td className="border px-4 py-2">{product.description}</td>
-                    <td className="border px-4 py-2">{product.price}€</td>
-                    <td>
-                      <Link to={product._id}>Editar</Link>
-                      <Link to={product._id + "/delete"}>Borrar</Link>
-                    </td>
-                  </tr>
-                ))}
-            </tbody>
-          </table>
-        </div>
+  
         <form
           className="bg-white p-6 rounded-lg shadow-lg mb-6"
           onSubmit={handleCreateProduct}
         >
-          <h2 className="text-2xl font-bold mb-4">Añadir un nuevo producto</h2>
+          <h2 className="text-2xl font-sans mb-4">Añadir un nuevo producto</h2>
           <div className="grid grid-cols-2 gap-2">
             <label>Nombre</label>
             <input
@@ -193,7 +168,7 @@ function EditProduct() {
           </div>
           <button
             type="submit"
-            className="grid-flow-row bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 ml-2"
+            className="grid-flow-row bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 ml-2 font-sans"
           >
             Crear
           </button>

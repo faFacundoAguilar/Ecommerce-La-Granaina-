@@ -14,6 +14,8 @@ import Morecards from '../COMPONENTES/morecards.jsx';
 import OtherCards from '../COMPONENTES/othercards.jsx';
 import GoodHero from "../COMPONENTES/hero.jsx";
 import Banner from "../COMPONENTES/setBanner.jsx";
+import CardLink from "../COMPONENTES/cardlink.jsx";
+import CardAnimated from "../COMPONENTES/cardanimated.jsx";
 
 
 
@@ -21,7 +23,7 @@ import Banner from "../COMPONENTES/setBanner.jsx";
 function Root() {
   const [productsInfo, setProductsInfo] = useState(null);
 
-  // Aca defini las diapositivas para el Carousel
+
   const slides = [
     <div key="1">Slide 1</div>,
     <div key="2">Slide 2</div>,
@@ -47,14 +49,19 @@ function Root() {
     <div className="App">
       <Header />
       <GoodHero/>
+      <CardLink/>
       <PurchaseTimeline />
-      <Banner/>
       <OtherCards/>
+      <Banner/>
+      <Offer />
+      <CardAnimated/>
+      <CardCarousel />
+  
       {/* <div className="flex justify-center mt-8">
                 <Carousel slides={slides} autoSlide={true} autoSlideInterval={3000} />
             </div> */}
             {/* <Offer /> */}
-            <div className="p-4 bg-gray-200">
+            <div className="p-4 bg-gray-300">
                 <div className="h-96 rounded-lg overflow-hidden mx-auto max-w-7xl">
                     <div className="bg-blue-400 h-96"></div>
                 </div>
@@ -74,8 +81,8 @@ function Root() {
                     )}
                 </div>
              
-                <CardCarousel />
-                <Section />
+           
+             
                 <Footer />
             </div>
         </div>
