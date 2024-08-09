@@ -45,9 +45,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 <p align="center">Este repositorio presenta mi trabajo desarrollado durante mis prácticas profesionales en la cooperativa 'La Granaina'. Mi participación en el proyecto Ecommerce incluyó la creación del diseño original y la elección de las tecnologías que se utilizaron. Me encargué tanto del frontend como del backend, llevando a cabo funcionalidades clave como el carrito de compras, autenticación y registro de usuarios, entre otras.
 
-Aunque el proyecto aún no está completamente terminado, gran parte de las funcionalidades propias de una Ecommerce están implementadas y funcionales. Este código representa el diseño original que fue entregado a la empresa para que futuros practicantes continúen con su desarrollo.
-
-Este repositorio tiene como propósito mostrar a los reclutadores mi capacidad para desarrollar y liderar proyectos complejos. El código aquí expuesto no está destinado a ser clonado o reutilizado en otros proyectos, ya que su desarrollo continuará en la empresa 'La Granaina' por otros practicantes.
+Aunque el proyecto aún no está completamente terminado, gran parte de las funcionalidades propias de una Ecommerce están implementadas y funcionales. 
 
 > [!IMPORTANT]
 >  El código presentado aquí es una muestra de mi trabajo realizado. Los estilos y componentes reflejan el diseño original creado para la cooperativa 'La Granaina', por lo que si  desean reutilizar este código, deberá modificar dichos elementos para respetar los derechos y la identidad de la empresa. El desarrollo del proyecto continuará en la cooperativa por otros practicantes.
