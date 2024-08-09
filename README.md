@@ -1,5 +1,6 @@
 <p align="center">
-  <strong>Home page</strong>
+  <img alt="MERN Stack" src="https://img.shields.io/badge/MERN%20Stack-%23323330.svg?logo=react&logoColor=%2361DAFB"><br>
+  <i>Pagina de Inicio</i>
 </p>
 
 <table>
@@ -18,7 +19,7 @@
 </table>
 
 <p align="center">
-<strong>Administrador</strong> 
+<i>Administrador</i>
 </p>  
 <table>
     <tr>
