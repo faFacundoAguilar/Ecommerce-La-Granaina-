@@ -1,3 +1,38 @@
+<p align="center">
+  <strong>Home page</strong>
+</p>
+
+<table>
+  <tr>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/a04be663-6981-47aa-8e11-9404a207d72b" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/7d591439-e989-4cf5-96ac-f56b9f3192fa" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover;"></td>
+  </tr>
+  <tr>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/882c179d-1040-4ce2-9226-3f2513cc58c3" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/18876942-b168-4337-ab0d-4d83080d1fbc" alt="Imagen 4" style="width: 100%; height: auto; object-fit: cover;"></td>
+  </tr>
+   <tr>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/95611216-5693-4885-b0f9-ac37274c94cb" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/332612f2-c0ca-42d8-aa76-8b868eeea288" alt="Imagen 4" style="width: 100%; height: auto; object-fit: cover;"></td>
+  </tr>
+</table>
+
+<p align="center">
+<strong>Administrador</strong> 
+</p>  
+<table>
+    <tr>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/91997a9e-fede-4b9f-8830-4e1ded1052a4" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/88a5ce1f-9564-4e66-9804-bb077611ead2" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover;"></td>
+  </tr>
+   <tr>
+        <td colspan="2" style="padding: 0;">
+            <img src="https://github.com/user-attachments/assets/2880091a-b449-471e-8cfb-fb3b4d3b9c24" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
+        </td>
+    </tr>
+</table>
+https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
