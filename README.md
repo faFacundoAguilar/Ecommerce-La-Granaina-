@@ -57,6 +57,18 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 >  El código presentado aquí es una muestra de mi trabajo realizado. Los estilos y componentes reflejan el diseño original creado para la cooperativa 'La Granaina', por lo que si  desean reutilizar este código, deberá modificar dichos elementos para respetar los derechos y la identidad de la empresa. El desarrollo del proyecto continuará en la cooperativa por otros practicantes.
 </p>
 
+## Tecnologías Utilizadas
+
+| **Frontend** | **Backend** | **Herramientas de Desarrollo** |
+|--------------|-------------|--------------------------------|
+| **React**  | **Node.js** | **npm**  |
+| **JavaScript**  | **Express.js** | 
+| **Tailwind CSS**  | **MongoDB**  | 
+
+
+
+
+
 
 # Getting Started with Create React App
 
