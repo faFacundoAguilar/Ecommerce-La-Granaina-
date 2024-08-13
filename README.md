@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
 <p align="center">
-    Este repositorio presenta mi trabajo desarrollado durante mis prácticas profesionales en la cooperativa 'La Granaina'. Mi participación en el proyecto Ecommerce incluyó la creación del diseño original y la elección de las tecnologías que se utilizaron.
+    Este repositorio presenta mi trabajo desarrollado durante mis prácticas profesionales en la cooperativa 'La Granaina'. Mi participación en el proyecto Ecommerce incluyó la creación del diseño original y la elección de las tecnologías que se utilizaran.
 </p>
 
 <p align="center">
