@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
 > [!IMPORTANT]
-> Los estilos y componentes reflejan el diseño original creado para la cooperativa 'La Granaina', por lo que si  desean reutilizar este código, deberá modificar dichos elementos para respetar los derechos y la identidad de la empresa. El desarrollo del proyecto continuará en la cooperativa por otros practicantes.
+> Este proyecto ha sido desarrollado en colaboración con la cooperativa 'La Granaina', siguiendo su identidad visual y principios de diseño. Los estilos y componentes están personalizados para ajustarse a las necesidades específicas de la cooperativa. A futuro, el desarrollo será continuado por otros practicantes, lo que brinda una oportunidad para integrar nuevos enfoques y mejorar la funcionalidad existente
 </p>
 
 ## Tecnologías Utilizadas
