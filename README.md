@@ -14,7 +14,7 @@
   </tr>
    <tr>
     <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/95611216-5693-4885-b0f9-ac37274c94cb" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
-    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/332612f2-c0ca-42d8-aa76-8b868eeea288" alt="Imagen 4" style="width: 100%; height: auto; object-fit: cover;"></td>
+    
   </tr>
 </table>
 
