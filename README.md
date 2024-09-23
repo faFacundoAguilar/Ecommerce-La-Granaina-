@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
 
-![2024-09-21 (1)](https://github.com/user-attachments/assets/d1855c51-4f28-4103-858c-16d31f29ef86)
+
 
 
 # Getting Started with Create React App
