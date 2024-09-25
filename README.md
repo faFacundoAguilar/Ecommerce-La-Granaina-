@@ -26,11 +26,7 @@
     <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/91997a9e-fede-4b9f-8830-4e1ded1052a4" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover;"></td>
     <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/88a5ce1f-9564-4e66-9804-bb077611ead2" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover;"></td>
   </tr>
-   <tr>
-        <td colspan="2" style="padding: 0;">
-            <img src="https://github.com/user-attachments/assets/2880091a-b449-471e-8cfb-fb3b4d3b9c24" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
-        </td>
-    </tr>
+
 </table>
 
 <div align="center">
