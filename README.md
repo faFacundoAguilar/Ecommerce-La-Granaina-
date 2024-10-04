@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
 <p align="center">
-    Este repositorio presenta mi trabajo desarrollado durante mis prácticas profesionales en la cooperativa 'La Granaina'. Mi participación en el proyecto Ecommerce incluyó la creación del diseño original y la elección de las tecnologías que se utilizaran.
+   Este repositorio muestra el trabajo que realicé en colaboración con la cooperativa 'La Granaina' como parte de un proyecto Ecommerce en desarrollo. Mi participación incluyó la creación del diseño original y la selección de las tecnologías que se utilizaran, alineada con los objetivos del proyecto.
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
 > [!IMPORTANT]
-> Este proyecto ha sido desarrollado en colaboración con una cooperativa , siguiendo su identidad visual y principios de diseño. Los estilos y componentes están personalizados para ajustarse a las necesidades específicas de la cooperativa. A futuro, el desarrollo será continuado por otros practicantes, lo que brinda una oportunidad para integrar nuevos enfoques y mejorar la funcionalidad existente
+> Version Demo. Los estilos y componentes están personalizados para ajustarse a las necesidades específicas del proyecto. Si bien esta es una versión demo, el eCommerce continuará evolucionando, ofreciendo la oportunidad de integrar nuevos enfoques y optimizar la funcionalidad existente.
 </p>
 
 ## Tecnologías Utilizadas
