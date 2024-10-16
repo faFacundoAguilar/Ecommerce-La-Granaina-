@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 
 <p align="center">
-Este repositorio refleja una fase intermedia del proyecto Ecommerce que estoy desarrollando en colaboración con una agencia de Marketing y comunicacion. En esta etapa, he trabajado en la creación del diseño inicial y la selección del stack tecnologíco más adecuadas para cumplir con los objetivos del proyecto. Es importante destacar que este no es el resultado final, sino una parte del proceso continuo de desarrollo, donde se irán implementando mejoras y nuevas funcionalidades a medida que avanzamos.
+Este repositorio refleja una fase intermedia del proyecto Ecommerce que estoy desarrollando en colaboración con una agencia de Marketing y comunicacion. En esta etapa, he trabajado en la creación del diseño inicial y la selección del stack tecnologíco más adecuadO para cumplir con los objetivos del proyecto. Es importante destacar que este no es el resultado final, sino una parte del proceso continuo de desarrollo, donde se irán implementando mejoras y nuevas funcionalidades a medida que avanzamos.
 </p>
 
 
