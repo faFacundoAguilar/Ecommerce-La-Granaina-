@@ -46,7 +46,7 @@ Este repositorio refleja una fase intermedia del proyecto Ecommerce que estoy de
 
 
 > [!IMPORTANT]
-> Version Demo. Los estilos y componentes están personalizados para ajustarse a las necesidades específicas del proyecto. Aunque el proyecto aún no está completamente terminado, gran parte de las funcionalidades propias de una Ecommerce están implementadas y funcionales. La aplicacion eCommerce continuará evolucionando, ofreciendo la oportunidad de integrar nuevos enfoques y optimizar la funcionalidad existente.
+> Version Demo. Los estilos y componentes están personalizados para ajustarse a las necesidades específicas del proyecto. Aunque el proyecto aún no está completamente terminado, gran parte de las funcionalidades propias de una Ecommerce están implementadas y funcionales.
 </p>
 
 ## Tecnologías Utilizadas
