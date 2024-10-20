@@ -2,22 +2,21 @@
   <img alt="MERN Stack" src="https://img.shields.io/badge/MERN%20Stack-%23323330.svg?logo=react&logoColor=%2361DAFB"><br>
   <i>Pagina de Inicio</i>
 </p>
-
+                                         
 <table>
   <tr>
     <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/a04be663-6981-47aa-8e11-9404a207d72b" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover;"></td>
-    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/7d591439-e989-4cf5-96ac-f56b9f3192fa" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/d1855c51-4f28-4103-858c-16d31f29ef86" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover;"></td>
   </tr>
   <tr>
-    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/d1855c51-4f28-4103-858c-16d31f29ef86" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
-    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/18876942-b168-4337-ab0d-4d83080d1fbc" alt="Imagen 4" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/c5ba8bb1-8f01-4e4f-b69e-6478dd61c960" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/95611216-5693-4885-b0f9-ac37274c94cb" alt="Imagen 4" style="width: 100%; height: auto; object-fit: cover;"></td>
+  </tr>                             
+   <tr>                            
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/7d591439-e989-4cf5-96ac-f56b9f3192fa" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/8a92b9ad-c2aa-4c60-9039-2c9583f9c6d6" style="width: 100%; height: auto; object-fit: cover;"></td>
   </tr>
-   <tr>
-    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/95611216-5693-4885-b0f9-ac37274c94cb" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover;"></td>
-    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/c5ba8bb1-8f01-4e4f-b69e-6478dd61c960" style="width: 100%; height: auto; object-fit: cover;"></td>
-  </tr>
-</table>
-
+</table>                                
 <p align="center">
 <i>Administrador</i>
 </p>  
@@ -56,10 +55,6 @@ Este repositorio refleja una fase intermedia de construccion del proyecto Ecomme
 | **React**  | **Node.js** | **npm**  |
 | **JavaScript**  | **Express.js** | **Vite**  |
 | **Tailwind CSS**  | **MongoDB**  | 
-
-
-
-
 
 
 
