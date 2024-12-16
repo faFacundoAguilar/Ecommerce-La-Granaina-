@@ -39,8 +39,7 @@
 https://github.com/user-attachments/assets/bbe1b435-b8fa-469a-b662-d39d0c4158d7
 
 > [!NOTE]
-> Este repositorio refleja una fase intermedia de construccion del proyecto Ecommerce que estoy desarrollando en colaboración con una agencia de Marketing y comunicacion. En esta etapa, he trabajado en la creación  del diseño inicial y la selección del stack tecnologíco más adecuado para cumplir con los objetivos del proyecto. 
-> Es importante destacar que este no es el resultado final, sino una parte del proceso continuo de desarrollo, donde se irán implementando mejoras y nuevas funcionalidades a medida que avanzamos.
+> Proyecto en desarrollo para <em>Agencia la granaina </em> 🛠️
 
 ## Tecnologías Utilizadas
 
