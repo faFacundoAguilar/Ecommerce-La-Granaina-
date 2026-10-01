@@ -1,8 +1,4 @@
 
-> [!NOTE]
-> Proyecto en desarrollo para <em>Agencia la granaina </em> 🛠️ <br>
->  Desarrollo Full Stack <br>
->  <em>agencialagranaina.com</em>
 
 ## Tecnologías Utilizadas
 
